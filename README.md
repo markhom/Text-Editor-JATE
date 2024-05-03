@@ -60,4 +60,6 @@ This project is a full-featured text editor web application that incorporates mo
 
 ## Deployment
 
-This 
+This application is also deployed on render at this link:
+
+https://text-editor-jate-9pa8.onrender.com
